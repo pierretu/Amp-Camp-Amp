@@ -1,0 +1,95 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f4840713-3ae6-4969-b727-dd00038548bc")
+	(paper "A5")
+	(title_block
+		(title "Amp Camp Amp v1.6")
+		(date "2024-11-19")
+		(rev "0")
+		(company "Audiophi")
+	)
+	(lib_symbols)
+	(sheet
+		(at 110.49 17.78)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "168a513f-ea7a-4130-869d-39f3ebc92441")
+		(property "Sheetname" "RightLeft Channel"
+			(at 110.49 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "leftchannel.kicad_sch"
+			(at 110.49 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amp Camp Amp"
+				(path "/f4840713-3ae6-4969-b727-dd00038548bc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 17.78)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2dbaa3cc-d553-48f3-9981-aa9ac03d96f7")
+		(property "Sheetname" "Input Board"
+			(at 43.18 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inputboard.kicad_sch"
+			(at 43.18 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Amp Camp Amp"
+				(path "/f4840713-3ae6-4969-b727-dd00038548bc"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

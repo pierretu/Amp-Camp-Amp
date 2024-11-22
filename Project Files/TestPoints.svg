@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.18639mm"
+   height="45.738289mm"
+   viewBox="0 0 170.7832 172.86913"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="TestPoints.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="170.7832"
+       height="172.86913"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch40"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.65625,-239.45351)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:200.559;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="36.152931"
+       y="247.21718"
+       id="text6"><tspan
+         x="36.152931"
+         y="247.21718"
+         id="tspan1">TP1  = 3.5-4.1V   = 335KΩ
+</tspan><tspan
+         x="36.152931"
+         y="262.21718"
+         id="tspan2">TP2  = 24.0V      = 1.0KΩ
+</tspan><tspan
+         x="36.152931"
+         y="277.21716"
+         id="tspan3">TP3  = 4.1-4.7V   = 1.0KΩ
+</tspan><tspan
+         x="36.152931"
+         y="292.21716"
+         id="tspan4">TP4  = 11.8-12.0V = 5.2KΩ
+</tspan><tspan
+         x="36.152931"
+         y="307.21716"
+         id="tspan5">TP5  = 12.3-12.6V = 5.8KΩ
+</tspan><tspan
+         x="36.152931"
+         y="322.21716"
+         id="tspan6">TP6  = 17.2-17.7V = 10.9KΩ
+</tspan><tspan
+         x="36.152931"
+         y="337.21716"
+         id="tspan7">TP7  = 17.0-17.2V = 11.0KΩ
+</tspan><tspan
+         x="36.152931"
+         y="352.21716"
+         id="tspan8">TP8  = 24.0V      = 1.0KΩ
+</tspan><tspan
+         x="36.152931"
+         y="367.21716"
+         id="tspan9">TP9  = 12.7-12.9V = 5.2KΩ
+</tspan><tspan
+         x="36.152931"
+         y="382.21716"
+         id="tspan10">TP10 = 4.1-4.7V   = 1.0KΩ
+</tspan><tspan
+         x="36.152931"
+         y="397.21716"
+         id="tspan11">TP11 = 11.8-12.0V = 5.2KΩ
+</tspan><tspan
+         x="36.152931"
+         y="412.21716"
+         id="tspan12">TP12 = 0.0V       = 0.0</tspan></text>
+  </g>
+</svg>
